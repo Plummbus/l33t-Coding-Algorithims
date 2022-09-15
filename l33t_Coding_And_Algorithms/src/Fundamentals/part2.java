@@ -6,9 +6,7 @@ import java.util.Arrays;
  * @author Franz Jacob Hernandez
  * @since 09-14-2022
  * 
- * Basic exercises from the Chapter 1 Fundamentals - Part 1 of the Coding Dojo Algorithm Challenges book. Most exercises are printing strings to the console
- * using for/while loops. The book is written in Javascript, but I'll be writing everything in Java.
- * 
+ * Basic exercises from the Chapter 1 Fundamentals - Part 1 of the Coding Dojo Algorithm Challenges book. Mostly exercises involving integer arrays.
  */
 
 public class part2 {

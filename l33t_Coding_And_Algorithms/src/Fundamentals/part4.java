@@ -8,8 +8,8 @@ import java.util.Random;
  * @author Franz Jacob Hernandez
  * @since 09-15-2022
  * 
- * Basic exercises from the Chapter 1 Fundamentals - Part 1 of the Coding Dojo Algorithm Challenges book. Most exercises are printing strings to the console
- * using for/while loops. The book is written in Javascript, but I'll be writing everything in Java.
+ * Basic exercises from the Chapter 1 Fundamentals - Part 4 of the Coding Dojo Algorithm Challenges book. More array manipulation and for/while loop problems,
+ * but now they're word problems.
  * 
  */
 
