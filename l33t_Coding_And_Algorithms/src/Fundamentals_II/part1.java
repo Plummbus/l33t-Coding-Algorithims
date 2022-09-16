@@ -38,7 +38,7 @@ public class part1 {
 		generateCoinChange(94);
 		
 		System.out.println(messyMath(4));		//should be 7
-		System.out.println(messyMath(8));		//should be 40
+		System.out.println(messyMath(8));		//should be 34
 		System.out.println(messyMath(15));		//should be -1
 		
 
@@ -134,7 +134,7 @@ public class part1 {
 	 * 3) if the current number is 1/3 the NUM, return -1.
 	 * 
 	 * ex. 	num = 4 returns 7
-	 * 		num = 8 returns 40
+	 * 		num = 8 returns 34
 	 * 		num = 15 returns -1
 	 */
 	public static int messyMath(int num) {
