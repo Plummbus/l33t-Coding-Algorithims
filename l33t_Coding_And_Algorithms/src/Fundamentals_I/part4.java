@@ -1,4 +1,4 @@
-package Fundamentals;
+package Fundamentals_I;
 
 import java.util.ArrayList;
 import java.util.Arrays;
