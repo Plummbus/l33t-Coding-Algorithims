@@ -38,11 +38,8 @@ public class part1 {
 		generateCoinChange(94);
 		
 		System.out.println(messyMath(4));		//should be 7
-<<<<<<< HEAD
 		System.out.println(messyMath(8));		//should be 34
-=======
 		System.out.println(messyMath(8));		//should be 40
->>>>>>> master
 		System.out.println(messyMath(15));		//should be -1
 		
 
